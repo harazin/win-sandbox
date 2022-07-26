@@ -1,5 +1,5 @@
 # This script can be run remotely by running the below commands:
-# $ScriptFromGithHub = Invoke-WebRequest https://raw.githubusercontent.com/tomarbuthnot/Run-PowerShell-Directly-From-GitHub/master/Run-FromGitHub-SamplePowerShell.ps1
+# $ScriptFromGithHub = Invoke-WebRequest https://raw.githubusercontent.com/harazin/win-sandbox/main/script.ps1
 # Invoke-Expression $($ScriptFromGithHub.Content)
 
 # Script Start
